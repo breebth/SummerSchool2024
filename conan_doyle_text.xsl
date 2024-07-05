@@ -67,5 +67,7 @@
 <xsl:template match="tei:l">
         <p><xsl:apply-templates/><<br/>>
     </xsl:template>
-    
+    <xsl:template match"tei:speech">
+    <span style="color:red">
+    </span>
 </xsl:stylesheet>

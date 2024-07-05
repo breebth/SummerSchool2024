@@ -66,21 +66,21 @@
                <l facs="#facs_15_tr_1_tl_2" n="N002">explain both his visit and its manner, but I could see by my</l>
                <l facs="#facs_15_l_1629" n="N003">companions <add place="above">unresponsive</add> face that it meant no more to him than to me.</l>
                <l rend="indent" facs="#facs_15_l_1782" n="N006"><speech>"Have a cigarette, Mr <rs type="person" key="McFarlane, ">McFarlane</rs>"</speech>said he <add place="above">pushing his case across</add> <speech continued="true">"I am sure that </speech></l>
-               <l facs="#facs_15_l_1742" n="N010"><speech continued="true">with your symptoms</speech> <speech continued="true"><hi style="text-decoration: line-through;">axxxxxx</hi></speech><speech continued="true">my friend Dr <rs type="person" key="Watson, ">Watson </rs></speech> <add place="above"> <speech continued="true">here</speech></add> <speech continued="true">would prescribe a sedative. The weather</speech></l>
-               <l facs="#facs_15_l_2216" n="N015"><speech continued="true">has been so very warm </speech> <add place="above"><speech continued="true">these</speech></add><speech continued="true"><hi style="text-decoration: line-through;">the</hi> last few days. Now, if you feel a little more</speech></l>
+               <l facs="#facs_15_l_1742" n="N010"><speech continued="true">with your symptoms</speech> <speech continued="true"><del><hi style="text-decoration: line-through;">axxxxxx</hi></del></speech><speech continued="true">my friend Dr <rs type="person" key="Watson, ">Watson </rs></speech> <add place="above"> <speech continued="true">here</speech></add> <speech continued="true">would prescribe a sedative. The weather</speech></l>
+               <l facs="#facs_15_l_2216" n="N015"><speech continued="true">has been so very warm </speech> <add place="above"><speech continued="true">these</speech></add><speech continued="true"><del><hi style="text-decoration: line-through;">the</hi></del> last few days. Now, if you feel a little more</speech></l>
                <l facs="#facs_15_tr_1_tl_13" n="N018"><speech continued="true">composed, I should be glad if you would sit down in that chair and</speech></l>
-                 <l facs="#facs_15_tr_1_tl_14" n="N019"><add place="above"><speech continued="true">very slowly and quietly</speech></add><speech continued="true">tell us who you are and what it is that you want? </speech><hi style="text-decoration: line-through;">Ithat</hi><add place="above"><speech continued="true">You mentioned</speech></add></l>
-               <l facs="#facs_15_tr_1_tl_17" n="N022"><hi style="text-decoration: line-through;">b</hi>your name as if I should recognise it but I assure you that beyond</l>
+                 <l facs="#facs_15_tr_1_tl_14" n="N019"><add place="above"><speech continued="true">very slowly and quietly</speech></add><speech continued="true"> tell us who you are and what it is that you want? </speech><del><hi style="text-decoration: line-through;">Ithat</hi></del><add place="above"><speech continued="true">You mentioned</speech></add></l>
+               <l facs="#facs_15_tr_1_tl_17" n="N022"><del><hi style="text-decoration: line-through;">b</hi></del>your name as if I should recognise it but I assure you that beyond</l>
                  <l facs="#facs_15_tr_1_tl_18" n="N023"><speech continued="true">the obvious facts that you are a bachelor, a solicitor, a freemason,</speech></l>
                <l facs="#facs_15_tr_1_tl_19" n="N024"><speech continued="true">and an asthmatic, I know nothing whatever about you."</speech></l>
                <l facs="#facs_15_tr_1_tl_20" n="N025">Familiar as I was with my friends methods it was</l>
                <l facs="#facs_15_tr_1_tl_21" n="N026">not difficult for me to follow his deductions and to observe the</l>
                <l facs="#facs_15_tr_1_tl_22" n="N027">untidiness of attire, the sheap of legal papers, the watch charm and</l>
                <l facs="#facs_15_tr_1_tl_23" n="N028">the breathing which had prompted them. Our client however stared</l>
-               <l facs="#facs_15_tr_1_tl_24" n="N029">in <hi style="text-decoration: line-through;">utter</hi> amagement.</l>
-               <l rend="indent">facs="#facs_15_tr_1_tl_25" n="N030"><speech continued="true">Yes. I am all that, Mr.<rs type="person" key="Holmes"> Holmes</rs>, and in addition</speech></l>
-               <l facs="#facs_15_l_2306" n="N031"><speech continued="true">I am the most unfortunate man in London</speech><speech continued="true">at this moment.</speech>For Gods sake don't</l> 
-               <l facs="#facs_15_tr_1_tl_28" n="N034"><speech continued="true">abandon me, Mr. Holmes! If they come to arrest me before I have</speech></l>
+               <l facs="#facs_15_tr_1_tl_24" n="N029">in <del><hi style="text-decoration: line-through;">utter</hi></del> amagement.</l>
+               <l rend="indent" facs="#facs_15_tr_1_tl_25" n="N030"><speech continued="true">Yes. I am all that, Mr.<rs type="person" key="Holmes"> Holmes</rs>, and in addition</speech></l>
+               <l facs="#facs_15_l_2306" n="N031"><speech continued="true">I am the most unfortunate man in London</speech><speech continued="true"> at this moment.</speech>For Gods sake don't</l> 
+               <l facs="#facs_15_tr_1_tl_28" n="N034"><speech continued="true">abandon me, Mr. <rs type="person" key="Holmes">Holmes</rs>! If they come to arrest me before I have</speech></l>
             </ab></div>
       </body>
    </text>
