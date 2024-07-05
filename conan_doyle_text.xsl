@@ -74,6 +74,12 @@
 
     </xsl:template>
 
+     <xsl:template match="tei:fw[@type='page-number']">
+            <span style="color:grey; display:block; text-align:right;">
+    <xsl:apply-templates/>
+    </span>
+        </xsl:template>
+
 <xsl:template match="tei:l">
         <xsl:apply-templates/><br/>
     </xsl:template>
@@ -103,11 +109,7 @@
     </span>
 </xsl:template>
 
- <xsl:template match="tei:fw[@type= 'page-number']">
-            <span style="color:grey">
-    <xsl:apply-templates/>
-    </span>
-</xsl:template>
+
     
     
 </xsl:stylesheet>
