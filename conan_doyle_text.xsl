@@ -64,10 +64,50 @@
     </xsl:template>
       
     <!-- add additional templates below, for example to transform the tei:l in <br/> empty elements, tei:hi[@rend = 'sup'] in <sup> elements, the underlined text, additions with the attribute "overwritten" etc. -->
-<xsl:template match="tei:l">
-        <p><xsl:apply-templates/><<br/>>
+<xsl:template match="tei:l[@rend = 'indent']">
+        <span>
+            <xsl:attribute name="rend">
+                <xsl:value-of select="attribute::rend" />
+            </xsl:attribute>
+            <xsl:apply-templates/><br/>
+        </span>
+
     </xsl:template>
-    <xsl:template match"tei:speech">
-    <span style="color:red">
+
+<xsl:template match="tei:l">
+        <xsl:apply-templates/><br/>
+    </xsl:template>
+
+    <xsl:template match="tei:speech">
+            <span style="color:red">
+    <xsl:apply-templates/>
     </span>
+</xsl:template>
+
+    <xsl:template match="tei:rs[@type= 'person']">
+        <span style="color:blue">
+    <xsl:apply-templates/>
+    </span>
+    </xsl:template>
+
+<xsl:template match="tei:hi[@rend = 'sup']">
+        <span style="color:yellow">
+    <xsl:apply-templates/>
+    </span>
+</xsl:template>
+
+<xsl:template match="tei:hi[@text-decoration = 'line-through']">
+        <span style="color:yellow">
+         </xsl:attribute>
+    <xsl:apply-templates/>
+    </span>
+</xsl:template>
+
+ <xsl:template match="tei:fw[@type= 'page-number']">
+            <span style="color:grey">
+    <xsl:apply-templates/>
+    </span>
+</xsl:template>
+    
+    
 </xsl:stylesheet>

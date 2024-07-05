@@ -7,11 +7,22 @@ body {
 }
 
 img {
-    max-width: 100%;
+    max-width: 75%;
+    margin-left: 125px;
 }
 
 p {
-    text-indent: 10px;
+    text-indent: 30px;
+    text-align: left;
+}
+
+.l {
+  text-align: left;
+}
+
+span[rend="indent"]
+{
+  margin-left: 20px;
 }
 
 .row {
@@ -29,6 +40,12 @@ p {
 }
 
 .del {
-  text-decoration: line-through;
+    text-decoration: line-through;
+  color: rgb(152, 3, 90);
+  white-space: nowrap; 
+  width: 50px; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  border: 1px solid #000000;
 }
 
