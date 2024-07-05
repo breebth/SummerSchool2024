@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5423" lry="7115" xml:id="facs_15">
+         <graphic url="73053806.jpeg" width="5423px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HMMMSWIXRFNIZTGQUZPNWJSL&amp;fileType=view" width="5423px" height="7115px"/>
+         <zone points="4616,350 4790,350 4790,517 4616,517" rendition="TextRegion" xml:id="facs_15_r_1708" subtype="page-number">
+            <zone points="4608,323 4733,323 4733,509 4608,509" rendition="Line" xml:id="facs_15_l"/>
+         </zone>
+         <zone points="184,954 5220,954 5220,6661 184,6661" rendition="TextRegion" xml:id="facs_15_tr_1">
+            <zone points="670,1042 4807,1042 4807,1389 670,1389" rendition="Line" xml:id="facs_15_tr_1_tl_1"/>
+            <zone points="180,1327 4708,1327 4708,1712 180,1712" rendition="Line" xml:id="facs_15_tr_1_tl_2"/>
+            <zone points="192,1743 1081,1743 1081,2016 192,2016" rendition="Line" xml:id="facs_15_l_1629"/>
+            <zone points="707,1563 1482,1563 1482,1774 707,1774" rendition="Line" xml:id="facs_15_tr_1_tl_3"/>
+            <zone points="1081,1606 4540,1606 4540,2003 1081,2003" rendition="Line" xml:id="facs_15_l_1630"/>
+            <zone points="974,1954 3213,1954 3213,2289 974,2289" rendition="Line" xml:id="facs_15_l_1782"/>
+            <zone points="3194,1979 5067,1979 5067,2301 3194,2301" rendition="Line" xml:id="facs_15_l_1783"/>
+            <zone points="3219,1848 4534,1848 4534,2072 3219,2072" rendition="Line" xml:id="facs_15_tr_1_tl_5"/>
+            <zone points="211,2270 519,2270 519,2581 211,2581" rendition="Line" xml:id="facs_15_l_1703"/>
+            <zone points="217,2047 1309,2047 1309,2326 217,2326" rendition="Line" xml:id="facs_15_l_1742"/>
+            <zone points="335,2208 949,2208 949,2345 335,2345" rendition="Line" xml:id="facs_15_l_1767"/>
+            <zone points="519,2276 1956,2276 1956,2630 519,2630" rendition="Line" xml:id="facs_15_l_2130"/>
+            <zone points="1941,2202 2196,2202 2196,2382 1941,2382" rendition="Line" xml:id="facs_15_tr_1_tl_9"/>
+            <zone points="1956,2239 4993,2239 4993,2586 1956,2586" rendition="Line" xml:id="facs_15_l_2131"/>
+            <zone points="217,2562 1830,2562 1830,2890 217,2890" rendition="Line" xml:id="facs_15_l_2216"/>
+            <zone points="1793,2438 2053,2438 2053,2630 1793,2630" rendition="Line" xml:id="facs_15_tr_1_tl_11"/>
+            <zone points="1830,2500 5160,2500 5160,2897 1830,2897" rendition="Line" xml:id="facs_15_l_2217"/>
+            <zone points="223,2828 5024,2828 5024,3157 223,3157" rendition="Line" xml:id="facs_15_tr_1_tl_13"/>
+            <zone points="229,3058 1464,3058 1464,3263 229,3263" rendition="Line" xml:id="facs_15_tr_1_tl_14"/>
+            <zone points="211,3132 5080,3132 5080,3511 211,3511" rendition="Line" xml:id="facs_15_tr_1_tl_16"/>
+            <zone points="4038,3052 4919,3052 4919,3250 4038,3250" rendition="Line" xml:id="facs_15_tr_1_tl_15"/>
+            <zone points="217,3442 5036,3442 5036,3815 217,3815" rendition="Line" xml:id="facs_15_tr_1_tl_17"/>
+            <zone points="236,3734 4888,3734 4888,4081 236,4081" rendition="Line" xml:id="facs_15_tr_1_tl_18"/>
+            <zone points="236,4038 4447,4038 4447,4385 236,4385" rendition="Line" xml:id="facs_15_tr_1_tl_19"/>
+            <zone points="1420,4342 5043,4342 5043,4689 1420,4689" rendition="Line" xml:id="facs_15_tr_1_tl_20"/>
+            <zone points="192,4627 4757,4627 4757,4993 192,4993" rendition="Line" xml:id="facs_15_tr_1_tl_21"/>
+            <zone points="192,4912 5179,4912 5179,5291 192,5291" rendition="Line" xml:id="facs_15_tr_1_tl_22"/>
+            <zone points="198,5204 5012,5204 5012,5619 198,5619" rendition="Line" xml:id="facs_15_tr_1_tl_23"/>
+            <zone points="192,5526 1687,5526 1687,5861 192,5861" rendition="Line" xml:id="facs_15_tr_1_tl_24"/>
+            <zone points="1575,5768 5105,5768 5105,6184 1575,6184" rendition="Line" xml:id="facs_15_tr_1_tl_25"/>
+            <zone points="174,6103 3423,6103 3423,6482 174,6482" rendition="Line" xml:id="facs_15_l_2306"/>
+            <zone points="2208,6054 3101,6054 3101,6258 2208,6258" rendition="Line" xml:id="facs_15_l_1729"/>
+            <zone points="3423,6116 4950,6116 4950,6463 3423,6463" rendition="Line" xml:id="facs_15_l_2307"/>
+            <zone points="155,6389 5030,6389 5030,6804 155,6804" rendition="Line" xml:id="facs_15_tr_1_tl_28"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_15" n="15" xml:id="img_0015"/><fw type="page-number" facs="#facs_15_r_1708" place="top">
+               <l facs="#facs_15_l" n="N001">4</l></fw>
+            <ab facs="#facs_15_tr_1" type="">
+               <l facs="#facs_15_tr_1_tl_1" n="N001">He made the announcement as if the name alone would</l>
+               <l facs="#facs_15_tr_1_tl_2" n="N002">explain both his visit and its manner, but I could see by my</l>
+               <l facs="#facs_15_l_1629" n="N003">companions <add place="above">unresponsive</add> face that it meant no more to him than to me.</l>
+               <l rend="indent" facs="#facs_15_l_1782" n="N006"><speech>"Have a cigarette, Mr <rs type="person" key="McFarlane, ">McFarlane</rs>"</speech>said he <add place="above">pushing his case across</add> <speech continued="true">"I am sure that </speech></l>
+               <l facs="#facs_15_l_1742" n="N010"><speech continued="true">with your symptoms</speech> <speech continued="true"><hi style="text-decoration: line-through;">axxxxxx</hi></speech><speech continued="true">my friend Dr <rs type="person" key="Watson, ">Watson </rs></speech> <add place="above"> <speech continued="true">here</speech></add> <speech continued="true">would prescribe a sedative. The weather</speech></l>
+               <l facs="#facs_15_l_2216" n="N015"><speech continued="true">has been so very warm </speech> <add place="above"><speech continued="true">these</speech></add><speech continued="true"><hi style="text-decoration: line-through;">the</hi> last few days. Now, if you feel a little more</speech></l>
+               <l facs="#facs_15_tr_1_tl_13" n="N018"><speech continued="true">composed, I should be glad if you would sit down in that chair and</speech></l>
+                 <l facs="#facs_15_tr_1_tl_14" n="N019"><add place="above"><speech continued="true">very slowly and quietly</speech></add><speech continued="true">tell us who you are and what it is that you want? </speech><hi style="text-decoration: line-through;">Ithat</hi><add place="above"><speech continued="true">You mentioned</speech></add></l>
+               <l facs="#facs_15_tr_1_tl_17" n="N022"><hi style="text-decoration: line-through;">b</hi>your name as if I should recognise it but I assure you that beyond</l>
+                 <l facs="#facs_15_tr_1_tl_18" n="N023"><speech continued="true">the obvious facts that you are a bachelor, a solicitor, a freemason,</speech></l>
+               <l facs="#facs_15_tr_1_tl_19" n="N024"><speech continued="true">and an asthmatic, I know nothing whatever about you."</speech></l>
+               <l facs="#facs_15_tr_1_tl_20" n="N025">Familiar as I was with my friends methods it was</l>
+               <l facs="#facs_15_tr_1_tl_21" n="N026">not difficult for me to follow his deductions and to observe the</l>
+               <l facs="#facs_15_tr_1_tl_22" n="N027">untidiness of attire, the sheap of legal papers, the watch charm and</l>
+               <l facs="#facs_15_tr_1_tl_23" n="N028">the breathing which had prompted them. Our client however stared</l>
+               <l facs="#facs_15_tr_1_tl_24" n="N029">in <hi style="text-decoration: line-through;">utter</hi> amagement.</l>
+               <l rend="indent">facs="#facs_15_tr_1_tl_25" n="N030"><speech continued="true">Yes. I am all that, Mr.<rs type="person" key="Holmes, "> Holmes</rs>, and in addition</speech></l>
+               <l facs="#facs_15_l_2306" n="N031"><speech continued="true">I am the most unfortunate man in London</speech><speech continued="true">at this moment.</speech>For Gods sake don't</l> 
+               <l facs="#facs_15_tr_1_tl_28" n="N034"><speech continued="true">abandon me, Mr. Holmes! If they come to arrest me before I have</speech></l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
